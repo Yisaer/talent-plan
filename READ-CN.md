@@ -4,7 +4,7 @@ Talent Plan 是由 PingCAP 发起的、面向社区人才培养的开源项目�
 
 # 课程内容
 
-Talent Plan 课程框架见下图，这是一个涵盖了开源协作、Rust 语言、分布式数据库、分布式系统、TiDB/TiKV 原理精讲等线上学习课程以及 TiDB 开源社区项目线下实训课程的更大的学习版图。课程框架见下图：
+Talent Plan 课程框架见下图，这是一个涵盖了开源协作、Rust 语言、分布式数据库、分布式系统、TiDB/TiKV 原理精讲等线上学习课程以及 TiDB 开源社区项目线下实训课程的更大的学习版图。
 
 ![Talent Plan Framework](media/talent-plan-framework.jpg)
 
