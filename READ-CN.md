@@ -1,4 +1,4 @@
-# Talent Plan: Made for Community, by Community
+# PingCAP Talent Plan
 
 <img src="https://github.com/Soline324/talent-plan/blob/master/media/talent-plan-logo.png" width="450px"/>
 
