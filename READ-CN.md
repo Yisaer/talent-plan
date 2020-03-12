@@ -1,7 +1,8 @@
 # Talent Plan: Made for Community, by Community
 
+![Talent Plan Framework](media/talent-plan-logo.png)
 
-<img=src"https://github.com/Soline324/talent-plan/media/talent-plan-logo.png" width="450px" />
+<img src="https://github.com/Soline324/talent-plan/blob/master/media/talent-plan-logo.png" width="450px"/>
 
 Talent Plan 是由 PingCAP 发起的、面向社区人才培养的开源项目，旨在开发并整合一系列开源协作、编程语言、基础设施等课程资料并与 TiDB 生态系统实践经验相结合，帮助开源爱好者以及基础设施爱好者逐步获得基础知识沉淀和技能提升。
 
